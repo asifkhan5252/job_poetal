@@ -1,2 +1,2 @@
-# job_poetal
+# job_portal
 This is my Job Portal
